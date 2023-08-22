@@ -1,1 +1,1 @@
-# assignment-3-dsa
+# assignment 3 of Data Structures and Algorithms Laboratory
