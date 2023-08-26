@@ -21,3 +21,5 @@
     15  11  7  3
     16  12  8  4
    ```
+4. Write a program to check whether a matrix is sparse or not.
+5.
