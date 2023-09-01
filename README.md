@@ -22,4 +22,11 @@
     16  12  8  4
    ```
 4. Write a program to check whether a matrix is sparse or not.
-5.
+5. Given a square matrix, print the maximum length snake sequence in it. A snake 
+sequence is defined as a sequence of numbers where each new number, which can 
+only be located to the right or down of the current number, is either plus or minus one.
+For example, we can either move right from any cell in the matrix (if that number is ±1 ) or 
+move down (if that number is ±1 ). The problem is finding the longest path (snake sequence) 
+through the matrix, keeping in mind that we can only move to a new cell whose value 
+is concerning the current cell
+6. 
