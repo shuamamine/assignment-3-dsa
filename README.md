@@ -29,4 +29,8 @@ For example, we can either move right from any cell in the matrix (if that numbe
 move down (if that number is ±1 ). The problem is finding the longest path (snake sequence) 
 through the matrix, keeping in mind that we can only move to a new cell whose value 
 is concerning the current cell
-6. 
+6. Write a program to interchange different rows of a matrix. 
+7. Write a program to reverse a string. 
+8. Write a program to check whether a string is palindrome or not. 
+9. Write a program to print abbreviation of a given word. (1st letter of each word) 
+10. Write a program to implement searching and sorting in a given list of words
