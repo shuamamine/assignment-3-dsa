@@ -1,6 +1,6 @@
-n=int(input("Enter the size of the matrix:"))
-arr=[]
-arr1=[]
+n=int(input("Enter the limit:"))
+a=[]
+ar=[]
 for i in range(0,n):
     l=[]
     for j in range(0,n):
@@ -17,7 +17,7 @@ for i in range(0,n):
     for j in range(0,n):
         l.append(arr[(n-1)-j][i])
     arr1.append(l)
-print("Roatated Matrix:")
+print("Rotated Matrix:")
 for i in range(0,n):
     for j in range(0,n):
         print(arr1[i][j]," ",end="")
